@@ -35,7 +35,7 @@
     "@angular/platform-browser-dynamic": "^7.1.0",
     "@angular/router": "7.1.0",
     "core-js": "^2.4.1",
-    "jsoneditor": "^5.19.0",
+    "jsoneditor": "https://github.com/karthikpadev/jsoneditor/tarball/0081d551f5be2043a3d467251c6b0df2ae4d77aa",
     "rxjs": "^6.0.0-beta.1",
     "webpack": "^4.16.1",
     "zone.js": "0.8.26"
